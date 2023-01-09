@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(../img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-pr.jpg);
+    background-size: cover;
+}
+.kutu{
+    width: 700px;
+    height: 900px;
+    background: rgba(0, 0, 0, 0.4);
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    padding-top: 30px;    
+}
+.img-kutu{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.icon{
+    padding-left: 20px;
+}
+p{
+    padding-right: 50px;
+    padding-left: 50px;  
+}
